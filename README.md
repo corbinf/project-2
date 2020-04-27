@@ -1,4 +1,4 @@
-# <h2>281 Project 2 Learning Outcomes</h2>
+## 281 Project 2 Learning Outcomes
 ### Learning Outcomes
 1. A web API or Application Programming Interface is an API accessed using the HTTP protocol
 2. Web APIs often deliver data formatted as JSON
@@ -9,7 +9,7 @@ JavaScript
 6. In this project, you will use Flickr's public API
 
 
-# <h2>281 Project 1 Learning Outcomes</h2>
+## 281 Project 1 Learning Outcomes
 ### Learning Outcomes
 1. Basic Unix Shell commands
 2. Install and Configure Git using the Unix Shell
